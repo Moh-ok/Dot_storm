@@ -210,8 +210,4 @@ https://YOUR-USERNAME.github.io/dotstorm/
 
 ---
 
-## 👨‍💻 Author
-
-**Mohan K**
-
 If you like the project, consider giving it a ⭐ on GitHub!
