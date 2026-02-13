@@ -1,7 +1,7 @@
 # 🎯 DotStorm
 
 **DotStorm** is a fast-paced browser arcade shooter built using **Vanilla JavaScript + HTML5 Canvas**.
-Check out the live game [here](https://YOUR-USERNAME.github.io/dotstorm/).
+Check out the live game [Dotstorm](https://YOUR-USERNAME.github.io/dotstorm/).
 
 You control a small player at the center of the screen while colorful enemy particles continuously spawn from all directions and move toward you.
 
